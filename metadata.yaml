@@ -1,0 +1,43 @@
+_repo: The-essentials-of-mysticism-and-other-essays_74203
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Underhill, Evelyn
+    aliases:
+    - Moore, Mrs. Stuart
+    - Moore, Stuart, Mrs.
+    birthdate: 1875
+    deathdate: 1941
+    gutenberg_agent_id: '5830'
+    url: http://www.gutenberg.org/2009/agents/5830
+    wikipedia: https://en.wikipedia.org/wiki/Evelyn_Underhill
+description: ''
+gutenberg_issued: '2024-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74203'
+  lccn: '21001752'
+language: en
+pgterms:marc904: https://archive.org/details/essentialsofmyst00unde_0/mode/2up
+pgterms:marc905: 20240225131442underhill
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Susan E, David King, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net. (This file was produced from images generously made available
+  by The Internet Archive.)
+publication_note: '  $aNew York :$bE. P. Dutton & Co., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mysticism'
+- !lcc 'BV'
+- GITenberg
+tableOfContents: 'The essentials of mysticism -- The mystic and the corporate life
+  -- Mysticism and the doctrine of atonement -- The mystic as creative artist -- The
+  education of the spirit -- The place of will, intellect, and feeling in prayer --
+  The mysticism of Plotinus -- Three mediæval mystics: "The mirror of simple souls."
+  The Blessed Angela of Foligno. Julian of Norwich -- Mysticism in modern France:
+  Sœur Thérése de l''Enfant Jésus. Lucie-Christine. Charles Péguy.'
+title: The essentials of mysticism, and other essays
+url: http://www.gutenberg.org/ebooks/74203
