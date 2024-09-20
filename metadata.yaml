@@ -1,5 +1,8 @@
 _repo: The-essentials-of-mysticism-and-other-essays_74203
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74203-h/images/cover.jpg
 creator:
   author:
     agent_name: Underhill, Evelyn
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5830
     wikipedia: https://en.wikipedia.org/wiki/Evelyn_Underhill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74203#The-essentials-of-mysticism-and-other-essays
 gutenberg_issued: '2024-08-07'
 gutenberg_type: Text
 identifiers:
